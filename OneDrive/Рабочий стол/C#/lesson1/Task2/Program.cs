@@ -21,4 +21,5 @@ int quotient = i1 / i2;
 Console.WriteLine(quotient);
 
 d1 = 6;
-double i1 / d1
+double quotient2 = i1 / d1;
+Console.WriteLine(quotient2);
