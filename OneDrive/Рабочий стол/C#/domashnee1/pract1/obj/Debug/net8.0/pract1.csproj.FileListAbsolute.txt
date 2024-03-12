@@ -1,0 +1,14 @@
+C:\Users\aiblu\OneDrive\Рабочий стол\C#\domashnee1\pract1\bin\Debug\net8.0\pract1.exe
+C:\Users\aiblu\OneDrive\Рабочий стол\C#\domashnee1\pract1\bin\Debug\net8.0\pract1.deps.json
+C:\Users\aiblu\OneDrive\Рабочий стол\C#\domashnee1\pract1\bin\Debug\net8.0\pract1.runtimeconfig.json
+C:\Users\aiblu\OneDrive\Рабочий стол\C#\domashnee1\pract1\bin\Debug\net8.0\pract1.dll
+C:\Users\aiblu\OneDrive\Рабочий стол\C#\domashnee1\pract1\bin\Debug\net8.0\pract1.pdb
+C:\Users\aiblu\OneDrive\Рабочий стол\C#\domashnee1\pract1\obj\Debug\net8.0\pract1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aiblu\OneDrive\Рабочий стол\C#\domashnee1\pract1\obj\Debug\net8.0\pract1.AssemblyInfoInputs.cache
+C:\Users\aiblu\OneDrive\Рабочий стол\C#\domashnee1\pract1\obj\Debug\net8.0\pract1.AssemblyInfo.cs
+C:\Users\aiblu\OneDrive\Рабочий стол\C#\domashnee1\pract1\obj\Debug\net8.0\pract1.csproj.CoreCompileInputs.cache
+C:\Users\aiblu\OneDrive\Рабочий стол\C#\domashnee1\pract1\obj\Debug\net8.0\pract1.dll
+C:\Users\aiblu\OneDrive\Рабочий стол\C#\domashnee1\pract1\obj\Debug\net8.0\refint\pract1.dll
+C:\Users\aiblu\OneDrive\Рабочий стол\C#\domashnee1\pract1\obj\Debug\net8.0\pract1.pdb
+C:\Users\aiblu\OneDrive\Рабочий стол\C#\domashnee1\pract1\obj\Debug\net8.0\pract1.genruntimeconfig.cache
+C:\Users\aiblu\OneDrive\Рабочий стол\C#\domashnee1\pract1\obj\Debug\net8.0\ref\pract1.dll
